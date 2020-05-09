@@ -1,0 +1,7 @@
+__pycache__/
+*.html
+*.xml
+*.gz
+*.code-workspace
+*.toml
+.vscode/
